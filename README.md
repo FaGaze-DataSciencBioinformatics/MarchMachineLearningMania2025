@@ -1,6 +1,6 @@
 #  March Machine Learning Mania 2025: Goto Conversion (Silver Medal Solution)
 
-## 🏆 Competition Achievement
+##  Competition Achievement
 
 This solution received the **Silver Medal** in the [March Machine Learning Mania 2025](https://www.kaggle.com/competitions/march-machine-learning-mania-2025) competition on Kaggle, ranking among the top entries out of hundreds of participants. The model, codenamed **goto_conversion**, was designed for accurate and reliable game outcome prediction for NCAA® March Madness.
 
